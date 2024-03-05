@@ -12,7 +12,7 @@ Projeto da escola Alura com foco em HTML e CSS
 </p>
 
 <p align="center">
-  <img alt="barbearia" src= ".github/preview.png" width="100%">
+  <img alt="barbearia" src= ".github/preview.png" width="80%">
 </p>
 
 <br>
